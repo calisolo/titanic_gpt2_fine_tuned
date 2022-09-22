@@ -3,7 +3,7 @@ kaggle titanic tutorial by gpt2 fine-tune
 Titanic
 https://www.kaggle.com/competitions/titanic
 
-### Approach
+### Approach(editing)
 
 (input forminput forminput forminput form )
 concatenate each features as natural languages   
