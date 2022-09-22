@@ -11,10 +11,10 @@ concatenate each features as natural languages
 instead of using special tokens like [UNUSED01],   
 rather assign unused vocabulary for its semantic embeddings.   
 
-```
+```python
   pclass = 'seat class'    
   sibsp = 'with sibling'   
-  parch = 'parents onboard'   
+  parch = 'parents onboard'   #didn't use same word hoping model won't confuse
   cabin = 'cabin number'   
   embarked = 'embarked port'   
 ```
