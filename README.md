@@ -49,7 +49,7 @@ inference passenger live or dead with gpt2classification model
 
 
 ### HyperParameters
-
+```
 epochs = 200
 learning_rate = 0.026
 eps = 1e-8
@@ -57,7 +57,7 @@ weight_decay = 0
 batch_size = 8
 cycles = 9 (cosine annealing with warmup)
 warmup = training steps/10
-
+```
 ### Curious things
 
 
