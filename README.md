@@ -6,7 +6,7 @@ https://www.kaggle.com/competitions/titanic
 
 
 
-
+🤮Score: 0.67464🤮
 
 
 
