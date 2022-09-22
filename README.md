@@ -70,7 +70,7 @@ warmup = training steps/10
 
 
 
-🤮Score: 0.67464🤮 (200 epochs)
+🤮Score: 0.67464🤮 (200 epochs)     
 🤮Score: 0.69377🤮 (50 epochs)
 
 
