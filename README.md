@@ -5,14 +5,57 @@ https://www.kaggle.com/competitions/titanic
 
 ### Approach
 
+concatenate each features as natural languages
+
+instead of using special tokens like [UNUSED01],
+rather assign unused vocabulary for its semantic embeddings.
+
+  pclass = 'seat class'
+  sibsp = 'with sibling'
+  parch = 'parents onboard'
+  cabin = 'cabin number'
+  embarked = 'embarked port'
+If feature name already looks like it has semantic connotation, used it as is.
+
+
+(input form looks like below)
+
+inference passenger live or dead with gpt2classification model
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 ### HyperParameters
 
+epochs = 200
+learning_rate = 0.026
+eps = 1e-8
+weight_decay = 0
+batch_size = 8
+cycles = 9 (cosine annealing with warmup)
+warmup = training steps/10
 
-
-### Curious Things
+### Curious things
 
 
 1. pad_token  = eos_token makes sense?
