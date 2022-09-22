@@ -70,14 +70,16 @@ warmup = training steps/10
 
 
 
-🤮Score: 0.67464🤮
+🤮Score: 0.67464🤮 (200 epochs)
+🤮Score: 0.69377🤮 (50 epochs)
+
 
 
 
 ### Why it sucks?
 - maybe no sufficient training data
 - maybe inappropriate model for task (i think this task not much related to word embeddings)
-- maybe wrong hyperparameters
+- maybe wrong hyperparameters (some overfitting i guess)
 
 ### Reference
 
