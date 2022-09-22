@@ -5,6 +5,7 @@ https://www.kaggle.com/competitions/titanic
 
 ### Approach
 
+(input forminput forminput forminput form )
 concatenate each features as natural languages   
 
 instead of using special tokens like [UNUSED01],   
@@ -21,7 +22,6 @@ rather assign unused vocabulary for its semantic embeddings.
 If feature name already looks like it has semantic connotation, used it as is.   
 
 
-(input form looks like below)
 
 inference passenger live or dead with gpt2classification model
 
