@@ -10,13 +10,13 @@ concatenate each features as natural languages
 instead of using special tokens like [UNUSED01],   
 rather assign unused vocabulary for its semantic embeddings.   
 
-'''
+```
   pclass = 'seat class'    
   sibsp = 'with sibling'   
   parch = 'parents onboard'   
   cabin = 'cabin number'   
   embarked = 'embarked port'   
-'''
+```
 
 If feature name already looks like it has semantic connotation, used it as is.   
 
