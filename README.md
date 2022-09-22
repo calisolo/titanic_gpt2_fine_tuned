@@ -30,7 +30,7 @@ https://www.kaggle.com/competitions/titanic
 
 ### Why it sucks?
 - maybe no sufficient training data
-- maybe inappropriate model for task
+- maybe inappropriate model for task (i think this task not much related to word embeddings)
 - maybe wrong hyperparameters
 
 ### Reference
