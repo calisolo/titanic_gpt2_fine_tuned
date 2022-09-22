@@ -11,4 +11,6 @@ https://www.kaggle.com/competitions/titanic
 
 
 Reference
+
+1. GPT2 fine tuning for classification
 https://github.com/gmihaila/ml_things/blob/master/notebooks/pytorch/gpt2_finetune_classification.ipynb
