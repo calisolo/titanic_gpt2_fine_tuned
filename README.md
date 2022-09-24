@@ -44,7 +44,7 @@ inference passenger live or dead with gpt2classification model
 
 ![plot](/plot.png)
 
-train with 200 epochs, cosine annealing with warmup
+train with 200 epochs, cosine annealing with warmup  
 good fit on train set
 
 
