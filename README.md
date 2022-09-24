@@ -7,7 +7,7 @@ https://www.kaggle.com/competitions/titanic
 
 
 
-![tuning architecture](/gpt2_titanic.png)
+!(/gpt2_titanic.png)
 
 
 
