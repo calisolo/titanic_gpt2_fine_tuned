@@ -7,7 +7,7 @@ https://www.kaggle.com/competitions/titanic
 
 
 
-!(/gpt2_titanic.png)
+![](/gpt2_titanic.png)
 
 
 
