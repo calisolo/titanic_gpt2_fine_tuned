@@ -26,7 +26,7 @@ rather assign unused vocabulary for its semantic embeddings.
 ```python
   pclass = 'seat class'    
   sibsp = 'with sibling'   
-  parch = 'parents onboard'   #didn't use same word hoping model won't confuse
+  parch = 'parents onboard'   #didn't use same vocab, hoping model won't confuse
   cabin = 'cabin number'   
   embarked = 'embarked port'   
 ```
