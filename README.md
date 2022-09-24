@@ -3,9 +3,21 @@ kaggle titanic tutorial by gpt2 fine-tune
 Titanic
 https://www.kaggle.com/competitions/titanic
 
-### Approach(editing)
+### Approach
 
-(input forminput forminput forminput form )
+
+
+![Alt text](/titanic_gpt2_fine_tuned/gpt2_titanic.png)
+
+
+
+
+
+
+
+
+
+
 concatenate each features as natural languages   
 
 instead of using special tokens like [UNUSED01],   
