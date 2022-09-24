@@ -7,7 +7,7 @@ https://www.kaggle.com/competitions/titanic
 
 
 
-![](/gpt2_titanic.png)
+![tuning architecture](/gpt2_titanic.png)
 
 
 
@@ -31,11 +31,11 @@ rather assign unused vocabulary for its semantic embeddings.
   embarked = 'embarked port'   
 ```
 
-If feature name already looks like it has semantic connotation, used it as is.(ex. name, sex, age, ticket, fare)
+If feature name already looks like it has semantic connotation, used it as is.(ex. name, sex, age, ticket, fare)  
+didn't use 'Passengerid', 'name' features. assume it will harm accuracy.   
 
 
-
-inference passenger live or dead with gpt2classification model
+inference passenger live or dead with gpt2classification model  
 
 
 
